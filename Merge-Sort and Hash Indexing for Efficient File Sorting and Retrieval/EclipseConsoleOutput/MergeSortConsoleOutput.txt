@@ -1,0 +1,24 @@
+Start program
+sorted 1 files
+sorted 2 files
+sorted 3 files
+sorted 4 files
+sorted 5 files
+sorted 6 files
+sorted 7 files
+sorted 8 files
+sorted 9 files
+sorted 10 files
+sorted 11 files
+splitted data into files12
+starting merge
+
+
+splitted into individual again
+Time to sort and split files88.228836511
+linear search begin
+4.671899403
+found title
+
+"[38180, 223787]","77737","[364, 2633]","A humble young monk and a magical, shape-changing fox find themselves romantically drawn together. As their love blooms, the fox learns of a devilish plot by a group of demons and a Japanese emperor to steal the monk's life. One of the most popular and critically acclaimed graphic novels of all time, Neil Gaiman's award-winning masterpiece The Sandman set the standard for mature, lyrical fantasy in the modern comics era. Illustrated by an exemplary selection of the medium's most gifted artists, the series is a rich blend of modern and ancient mythology in which contemporary fiction, historical drama, and legend are seamlessly interwoven. In The Dream Hunters, legendary artist P. Craig Russell returns to the world of the Dreaming to adapt Neil Gaiman and artist Yoshitaka Amano's original illustrated novella into a mesmerizing new comics interpretation. Retelling Gaiman's celebrated story of a humble young monk and the magical fox who falls in love with him. Russell beautifully brings to life every aspect of the richly evocative world set down in this timeless fable of desire, sacrifice, and love that was never meant to be. OVERTURE","168.0","259.0","7.62","","30th Anniversary ed.","","1","9781401294236","","fe69ff7a3776ac320e66bc417db727d3","full/b/3/f/b3f35ab174a4486875014b30864dc77811241515.jpg","https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4012/9781401294236.jpg","","","1401294235","9781401294236","en","2019-09-24 00:00:00","","4.46","10168","Sandman: Dream Hunters 30th Anniversary Edition","/Sandman-Dream-Hunters-30th-Anniversary-Edition-Neil-Gaiman/9781401294236","258.55"
+Time with linear search4.6751118

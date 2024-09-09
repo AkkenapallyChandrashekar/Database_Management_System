@@ -1,0 +1,11 @@
+Split the Data File
+First, take a dataset.csv file and split the data into 12 files with 100000 rows each, but the last file will have slightly fewer rows. Then you need to sort the files by title using a mergesort program. The splitting the input dataset.csv file is done in the MergeSort.java file each file is split into mutliple lines. 
+
+Merge-Sort: 
+Then each file from the above output is taken as input and are merge sorted individually. After this process is done, the individual merge sorted files are merged into a single output.csv file using merge sort algorithm and then these output.csv file is split into smaller individual files which each having 100000 records in it. Sort action is performed on the dataset.csv such that all records starting with "A" are at the beginning of the first file and all tracks starting with "Z" are at the end of the last file. In the merge sort, the data will be split into two equal halves. Using the sorting method, both halves must then be sorted, and then the two halves must be combined. A merge sort algorithm joins two smaller, sorted arrays to produce a larger array. 
+
+Linear Search: 
+After the above process is done, then linear search is performed on each file in the list of merge sorted files from the above output. This algorithm searches every line from the beginning till the value is found, going from start line to finish line. When the search value is identified, the process ends. Then the result is display in the console which is saved in the format of text in EclipseConsoleOutput folder. Search and display the title "Sandman Dreamhunters 30th Anniversary Edition" in a linear search. Also, be aware of how long this search takes.
+
+Hash-Index: 
+In Hash-Index each record title and filename are stored as key of hashindex and also the hash index of each record data is stored as value of its corresponding key. The data is searched in such a way that the key value contains the hashcode of the given input title for search. When the hashcode maches the entire record is returned and converted back to string record. Then the record is displayed as well the as the time taken to complie it. 
